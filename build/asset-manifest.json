@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96f7fca4.css",
+    "main.js": "/static/js/main.6012ee1f.js",
+    "static/media/banner1.jpg": "/static/media/banner1.c7c7760925bdf9a4d8a7.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.d54edc15f71633d45396.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.dec540b027ae7bbf0018.jpg",
+    "static/media/banner4.jpg": "/static/media/banner4.22b4d0ededa673fe573c.jpg",
+    "static/media/exclusive.avif": "/static/media/exclusive.4165bbb5d1a476f2bdf2.avif",
+    "static/media/product1.jpg": "/static/media/product1.88ac614a18fa58a72ae7.jpg",
+    "static/media/whiteamazon-logo.png": "/static/media/whiteamazon-logo.de51da8124392581d4cc.png",
+    "index.html": "/index.html",
+    "main.96f7fca4.css.map": "/static/css/main.96f7fca4.css.map",
+    "main.6012ee1f.js.map": "/static/js/main.6012ee1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f7fca4.css",
+    "static/js/main.6012ee1f.js"
+  ]
+}
