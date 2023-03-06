@@ -1,0 +1,70 @@
+.header_logo{
+    width : 140px;
+    margin-right: 10px;
+}
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    position: sticky;
+    top:0;
+    z-index: 100;
+    padding: 0 20px;
+}
+.header_search{
+    display: flex;
+    flex : 1;
+    align-items: center;
+    border-radius: 10px;
+}
+.header_searchbox{
+    border-radius: 5px 0 0 5px;
+}
+.header_search input{
+    /*width: 80%;*/
+    flex: 1;
+    height: 20px;
+    padding: 10px;
+    border: 0;
+    outline: 0;
+}
+.header_searchIcon{
+    padding: 8px;
+    height: 20px;
+    background-color: #cd9042;
+    border-radius: 0 5px 5px 0;
+}
+.header_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.header_optionone{
+    font-size: 10px;
+    color:#fff;
+}
+.header_optiontwo{
+    display: block;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_option{
+    display: flex;
+    margin-left:10px;
+    margin-right : 10px;
+    flex-direction: column;
+}
+.header_optionBasket{
+    display: flex;
+    color: #fff;
+    margin-left:10px;
+    margin-right : 10px;
+}
+.LinkLagaya{
+    text-decoration: none !important;
+}
+.iconlagaya{
+    color: #fff;
+}
